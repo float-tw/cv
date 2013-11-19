@@ -1,3 +1,5 @@
+SHELL=/bin/bash
+
 all: cv.pdf
 	
 cv.pdf: cv.tex
